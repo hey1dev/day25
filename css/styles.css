@@ -41,11 +41,12 @@ a {
 	font-weight: 500;
 	padding: 15px 60px 15px 60px;
 	font-size: 18px;
+	transition: all .4s ease-in-out;
 }
 p {padding-top: 5px;}
 .btn {margin-top: 30px;}
 a:hover {
 	background-color: #eaa258;
 	color: #fff;
-	box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5)
+	box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
 }
